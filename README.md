@@ -6,6 +6,7 @@
 > *  https://github.com/mzgoddard/hard-source-webpack-plugin/pull/436
 > *  https://github.com/mzgoddard/hard-source-webpack-plugin/pull/446
 > *  https://github.com/mzgoddard/hard-source-webpack-plugin/pull/452
+> *  https://github.com/mzgoddard/hard-source-webpack-plugin/pull/470
 
 > Known test failures:
 > *  2 failures: plugin-mini-css-extract-file
