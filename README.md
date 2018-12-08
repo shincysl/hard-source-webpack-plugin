@@ -1,12 +1,19 @@
 # HardSourceWebpackPlugin
 
 > This is a temporary fork of hard-source-webpack-plugin.
+
 > The following PRs are merged:
+
 >   https://github.com/mzgoddard/hard-source-webpack-plugin/pull/444
+
 >   https://github.com/mzgoddard/hard-source-webpack-plugin/pull/436
+
 >   https://github.com/mzgoddard/hard-source-webpack-plugin/pull/446
+
 >   https://github.com/mzgoddard/hard-source-webpack-plugin/pull/452
+
 > Known test failures:
+
 >    2 failures: plugin-mini-css-extract-file
 
 [![Build Status](https://travis-ci.org/mzgoddard/hard-source-webpack-plugin.svg?branch=master)](https://travis-ci.org/mzgoddard/hard-source-webpack-plugin) [![Build status](https://ci.appveyor.com/api/projects/status/761saaelxem01xo5/branch/master?svg=true)](https://ci.appveyor.com/project/mzgoddard/hard-source-webpack-plugin/branch/master)
