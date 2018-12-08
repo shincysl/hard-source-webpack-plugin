@@ -2,7 +2,7 @@
 
 > This is a temporary fork of hard-source-webpack-plugin.
 > The following PRs are merged:
-> *  https://github.com/mzgoddard/hard-source-webpack-plugin/pull/444 (with additional fix from egorFiNE)
+> *  https://github.com/mzgoddard/hard-source-webpack-plugin/pull/444
 > *  https://github.com/mzgoddard/hard-source-webpack-plugin/pull/436
 > *  https://github.com/mzgoddard/hard-source-webpack-plugin/pull/446
 > *  https://github.com/mzgoddard/hard-source-webpack-plugin/pull/452
