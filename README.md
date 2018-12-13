@@ -1,6 +1,6 @@
 # HardSourceWebpackPlugin
 
-> Deprecated. A new version of hard-source-webpack-plugin has been published.
+> 2018/12/13. Deprecated. A new version of hard-source-webpack-plugin has been published.
 
 > This is a temporary fork of hard-source-webpack-plugin.
 > The following PRs are merged:
